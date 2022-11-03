@@ -2,7 +2,7 @@
   "providers": [
     "awscloudformation"
   ],
-  "projectName": "amplifyhostingtest",
+  "projectName": "nextamplifytest",
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
